@@ -557,7 +557,7 @@
     (uuid 59340309-930f-44a7-9dc0-119af0640901)
     (property "Reference" "J1" (id 0) (at 70.485 77.47 0))
     (property "Value" "Conn_01x03_Female" (id 1) (at 70.485 80.01 0))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal" (id 2) (at 69.85 85.09 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 69.85 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 69.85 85.09 0)
@@ -1018,7 +1018,7 @@
       (reference "D9") (unit 1) (value "SK6805_1515") (footprint "LED_SMD:LED_SK6812_EC15_1.5x1.5mm")
     )
     (path "/59340309-930f-44a7-9dc0-119af0640901"
-      (reference "J1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
+      (reference "J1") (unit 1) (value "Conn_01x03_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/befcbf5f-cf66-4a10-8c7a-e7785ca8eeda"
       (reference "R1") (unit 1) (value "500") (footprint "Resistor_SMD:R_0805_2012Metric")
