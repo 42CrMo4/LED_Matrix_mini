@@ -18,6 +18,8 @@ view the project files in the browaser without downloading or installing anythin
 
 [Main branche - Development](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F42CrMo4%2FP006_LED_Matrix_mini)
 
+[v1.1](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F42CrMo4%2FP006_LED_Matrix_mini%2Ftree%2Fv1.1)
+
 [v1.0](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F42CrMo4%2FP006_LED_Matrix_mini%2Ftree%2Fv1.0)
 
 ## Description. 
