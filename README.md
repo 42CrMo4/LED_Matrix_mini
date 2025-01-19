@@ -31,4 +31,4 @@ view the project files in the browaser without downloading or installing anythin
 |-------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | ![PCB Top design](../../blob/documentation/Fabrication/PCBdraw_Top.png) | ![PCB Back design](../../blob/documentation/Fabrication/PCBdraw_Back.png) |
 
-![Link to the current BOM](../../tree/documentation/Fabrication/BoM)
+![Link to the current BOM](../../tree/documentation/Fabrication/BoM/design-bom-short.csv)
