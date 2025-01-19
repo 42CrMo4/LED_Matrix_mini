@@ -33,7 +33,7 @@ jobs:
         apt -y install git
     
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Assign variables from project.properties to Env variable
       run: |
