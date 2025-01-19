@@ -8,14 +8,9 @@ Mini LED Matrix with SK6805 1515
 
 ## Goal
 
-Status: Finished
+Status: **Finished**
 
-The goal of the project will be:
-- [ ] **undefined** - not known what the project will bring 
-- [ ] **learn** - personally learn something new, no usefull outcome expected
-- [ ] **prototype** - a working prototype or mvp
-- [x] **80-20-rule** - 80% outcome with 20% effort
-- [ ] **Product** - lets see :wink:
+Goal: **80-20-rule** - 80% outcome with 20% effort
 
 ## KiCanvas 
 
