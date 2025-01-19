@@ -827,7 +827,6 @@
   (segment (start 161.95 97.45) (end 162.9 97.45) (width 0.25) (layer "F.Cu") (net 6) (tstamp 8d908c50-ffe8-412e-9025-56fd02ae9af2))
   (segment (start 162.9 97.45) (end 163.360775 96.989225) (width 0.25) (layer "F.Cu") (net 6) (tstamp bd0d2d74-fbe7-496e-881a-085b512baf43))
   (segment (start 163.360775 96.989225) (end 163.360775 95.410775) (width 0.25) (layer "F.Cu") (net 6) (tstamp ef301608-6177-4776-9f49-507a83051ad0))
-  (segment (start 161.95324 94.94676) (end 161.95 94.95) (width 0.25) (layer "F.Cu") (net 6) (tstamp f98c3878-c25f-4833-a96a-1c56de0feeea))
   (segment (start 160.35 96.55) (end 159.45 97.45) (width 0.21) (layer "F.Cu") (net 7) (tstamp 141c4ebe-ad1b-4989-8a50-fdf6fd138f8c))
   (segment (start 161.05 96.55) (end 160.35 96.55) (width 0.21) (layer "F.Cu") (net 7) (tstamp 25301708-dcef-494e-b0e8-47cf476fb080))
   (segment (start 158.55 96.55) (end 157.85 96.55) (width 0.21) (layer "F.Cu") (net 8) (tstamp 8a36cc04-5d19-4b71-8af1-f94f1f2843b4))
