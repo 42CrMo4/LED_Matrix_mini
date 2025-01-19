@@ -1,34 +1,29 @@
-# KiCad_Template
+# KiCad Mini LED Matrxi
 
-This is a template repo for KiCAD v6 projects with 
+Mini LED Matrix with SK6805 1515
 
-## Todo
+## Description
 
-* ~add DRC, ERC as seperate WF~ 
-* ~add DRC, ERC to release WF as blocking~
-* ~add release checklist~
-* order release checklist
-* ~add workflow to automatically create new realease checklist and realease note file and reset the generic for the next release~
-* ~Rename artefacts with project name and date?~
-* Add diffrent PCB manufactures output via kibot
-* ~Update to kicad6_auto:1.3.0~
-* use version number for template
+3x3 SK6805 1515 (1.5mm x 1.5mm) Matrix with 2.54mm header pins and a data series resistor
 
-## Usage
+## Goal
 
-hit "use this template" button
-delet all unneded files in Doc folder
-delet all Schematic stuff but not the text Placeholders <<...>>
-delet all PCB stuff but not the text Placeholders <<...>> and the Board Edge (or the iBOM will fail). You can remodel it later.
+Status: Finished
 
-### Workflow
-If not working:
-setting -> action -> general -> Workflow permissions -> Read and write permissions
+The goal of the project will be:
+- [ ] **undefined** - not known what the project will bring 
+- [ ] **learn** - personally learn something new, no usefull outcome expected
+- [ ] **prototype** - a working prototype or mvp
+- [x] **80-20-rule** - 80% outcome with 20% effort
+- [ ] **Product** - lets see :wink:
 
-## working
+## KiCanvas 
 
-in the first workflow run the action will create a new branch "documentation" to store the newest PCBdraw pictures. 
-Each action run will force push the png to this branch. So so not use the Fabrication folder in the documentation branch.
+view the project files in the browaser without downloading or installing anything via [KiCanvas](https://kicanvas.org)
+
+[Main branche - Development](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F42CrMo4%2FP006_LED_Matrix_mini)
+
+[v1.0](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F42CrMo4%2FP006_LED_Matrix_mini%2Ftree%2Fv1.0)
 
 ## Description. 
 
